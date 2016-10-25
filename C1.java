@@ -64,7 +64,7 @@ public class C1 {
 	public static void Analyst(StringBuffer str,String x)
 	{
 		int i;
-		char item;
+        char item;
 		StringBuffer temp=new StringBuffer();
 		for(i=0;i<str.length();i++)
 		{
