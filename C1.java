@@ -7,7 +7,7 @@ public class C1 {
 		int count=0;
 		int i;
 		char item;
-		//haf
+		//
 		for(i=0;i<beforeD.length();i++)
 		{
 			item=beforeD.charAt(i);
@@ -88,8 +88,8 @@ public class C1 {
 		StringBuffer str1= new StringBuffer(), str2 = new StringBuffer();
 		String fact,op,fu;
 		int i=0,a=0;
-		System.out.println("Please input the polynomial:");
-		System.out.println("Please input the variable to be derivated which must be included x,y,z");
+		System.out.println("璇疯緭鍏ュ椤瑰紡:");
+		System.out.println("鍙橀噺涓嶅彲瓒呰繃涓変釜涓斿繀椤讳负:x,y,z");
 		str1.append(input.next());
 		str2.append(str1);
 		op=str2.toString();
